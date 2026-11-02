@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/iloveappleswarm-hue/iloveappleswarm-hue/blob/main/9c483850-9e3c-4d8a-b91e-cb61388b8983.png?raw=true" width="100%" alt="Siddarth Reddy - Aspiring Web Developer">
+</p>
+
+
 Hi, I'm Siddarth Reddy 👋
 
 I'm an aspiring web developer from India, currently pursuing my undergraduate studies at Mohan Babu University.
