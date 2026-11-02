@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Siddarth Reddy 👋
 
-<!--
-**iloveappleswarm-hue/iloveappleswarm-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring web developer from India, currently pursuing my undergraduate studies at Mohan Babu University.
 
-Here are some ideas to get you started:
+I'm learning web development by building projects and exploring new technologies. I enjoy creating websites and turning ideas into working applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+
+### Focus Timer
+A productivity website that helps users manage focus sessions, breaks, and hydration.
+
+- [Live Website](https://focus-timer-eta-ten.vercel.app/)
+- [View Source Code](https://github.com/iloveappleswarm-hue/focus-timer)
+
+## 💻 Technologies I'm Learning
+
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
+
+## 🌱 Currently Learning
+
+- Building interactive websites
+- Improving my web development skills
+- Using GitHub to manage and showcase my projects
+
+## 📫 Connect With Me
+
+- GitHub: [@iloveappleswarm-hue](https://github.com/iloveappleswarm-hue)
+- Email: siddarthr256@gmail.com
+
+I'm open to learning opportunities, internships, and entry-level remote tech roles.
